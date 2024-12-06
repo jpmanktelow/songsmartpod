@@ -1,1 +1,1 @@
-Sitemap: http://www.songsmartpod.com/songsmartpod/sitemap.xml
+Sitemap: http://www.songsmartpod.com/sitemap.xml
